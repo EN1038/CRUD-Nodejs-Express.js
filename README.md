@@ -13,7 +13,6 @@
 ## Technologies Used
 <ul>
  <li> HTML </li>
- <li> Tailwind CSS </li>
  <li> Javascript </li>
  <li> Node.js-Express.js </li>
  <li> Mysql </li>
